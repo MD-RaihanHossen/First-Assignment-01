@@ -119,7 +119,7 @@ div.self-inprovement{
     background-repeat: no-repeat;
     background-image: url(assignment-related-photo/group-photo.jpg);
     margin-bottom: 200px;
-    box-shadow: 0px 0px red, 0px 0px green, 0px 0px black, 0px 0px blue;
+    box-shadow:  -4px 14px 16px chocolate;
 }
 .self-inprovement img{
     width: 50%;
