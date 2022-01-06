@@ -33,6 +33,7 @@ span{
 
 .friend-photo{
     width: 33%;
+    border-radius: 10px;
 }
 .one-tow-common{
      margin-left: 5%;
@@ -51,3 +52,19 @@ span{
     margin-left: 4%;
     margin-right: 4%;
 }
+.moriom-akter img{
+    width: 100px;
+    height: 138px;
+    margin-top: 5px;
+}
+.raihan-hossen img{
+    width: 100px;
+    height: auto;
+    margin-top: 5px;
+}
+.shemoly-akter img{
+    width: 90px;
+    height: auto;
+    margin-top: 5px;
+}
+
