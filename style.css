@@ -113,3 +113,19 @@ span{
 
     border: 2px solid red;
 }
+div.self-inprovement{
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-image: url(assignment-related-photo/group-photo.jpg);
+    margin-bottom: 200px;
+    box-shadow: 0px 0px red, 0px 0px green, 0px 0px black, 0px 0px blue;
+}
+.self-inprovement img{
+    width: 50%;
+}
+
+.self-inprovement a{
+    color: peru;
+    text-decoration: none;
+}
