@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Poppins&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.friendship{
+    display: flex;
+}
+.first-blog{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 40px;
+}
+.photo-1 img{
+    width: 75%;
+}
+.first-heading{
+    border-left: 2px solid red;
+}
+span{
+    color: orange;
+}
+.first-ancor{
+    text-decoration: none;
+    background-color: #DBB5BF;
+    padding: 10px;
+    color: white;
+}
+.friend-list-header{
+    text-align: center;
+}
+
+.friend-photo{
+    width: 33%;
+}
+.one-tow-common{
+     margin-left: 5%;
+    margin-right: 5%;
+}
+.crazy-friend{
+    background-color: rgb(77, 122, 118, 0.322);
+}
+.cool-friend{
+    background-color: rgba(184, 59, 138, 0.432);
+}
+.sharp-friend{
+    background-color: rgba(148, 148, 38, 0.37);
+}
+.good-friend{
+    margin-left: 4%;
+    margin-right: 4%;
+}
