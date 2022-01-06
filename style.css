@@ -68,3 +68,48 @@ span{
     margin-top: 5px;
 }
 
+.second-blog{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 150px;
+}
+.photo-2 img{
+    width: 90%;
+    border-radius: 10px;
+}
+.three-blog{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 40px;
+    margin-bottom: 160px;
+}
+.photo-3 img{
+    width: 100%;
+}
+.writing-3{
+    padding-top: 140px;
+}
+.writing-2{
+    margin-top: 190px;
+}
+.writing-1{
+    margin-top: 65px;
+}
+
+.footer-scetion{
+    width: 100%;
+    height: 110px;
+    background-color: black;
+
+}
+.footer-end{
+    color: white;
+    text-align: center;
+    
+}
+.end-div{
+
+    border: 2px solid red;
+}
